@@ -1,0 +1,11 @@
+{
+  "_note": "Client-supplied hero copy. Verbatim source of truth. Do not edit to match code — edit code to match this. Checked by `npm run verify:copy`.",
+  "headline": "Custom Home Renovation in Conroe, TX, Built Around Your Needs",
+  "paragraphs": [
+    "Does your home need more storage, a better layout, updated finishes, or repairs that have been waiting too long? A custom home renovation should address the way you use your space. Sacred Innovations helps Conroe homeowners plan practical improvements around their priorities and budget.",
+    "You do not need a finished design to get started. Share a few photos, your property ZIP code, and a short description of the work. We can discuss the next step and whether the project fits our services."
+  ],
+  "primaryCta": "Request a Project Estimate",
+  "phoneCta": "Call (936) 703-8460",
+  "phoneHref": "tel:+19367038460"
+}
